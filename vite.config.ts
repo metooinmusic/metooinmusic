@@ -9,7 +9,7 @@ export default defineConfig(() => {
       },
       outDir: "dist",
     },
-    base: "/metooinmusic",
+    base: "/",
     plugins: [react()],
   };
 });
